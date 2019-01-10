@@ -1,0 +1,77 @@
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe.config
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal_Algorithm.Properties.Resources.resources
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.csproj.GenerateResource.Cache
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.pdb
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.Design.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.pdb
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MaterialSkin.dll
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal_Algorithm.Kruskal.resources
+C:\Users\ahmettsdvn\Desktop\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe.config
+C:\Users\ahmettsdvn\Desktop\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.pdb
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe.config
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.pdb
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.pdb
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.Design.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal_Algorithm.Kruskal.resources
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal_Algorithm.Properties.Resources.resources
+C:\Users\ahmettsdvn\Desktop\Ahmet\Ahmet\ödev-kruskal\Kruskal Algorithm\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.csproj.GenerateResource.Cache
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\bin\Debug\Kruskal Algorithm.exe.config
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.exe
+C:\Users\ahmettsdvn\Desktop\Kruskal Algorithm\Kruskal Algorithm\obj\Debug\Kruskal Algorithm.pdb
