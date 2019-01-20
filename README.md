@@ -1,2 +1,2 @@
 # Kruskal-Algorithm
-Kruskal Algorithm in C#
+Kruskal Algorithm with C#
